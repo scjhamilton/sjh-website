@@ -60,7 +60,7 @@ disableLanguages        = [""]
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "Scott Hamilton"
-    paragraph             = "Digital Communications Analytics. Sociology"
+    paragraph             = "Digital Communications Analytics. Sociology. Not Websites"
     rssIntro              = true
     socialIntro           = true
     # You may not want to display a long intro above content in the
