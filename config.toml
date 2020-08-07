@@ -54,7 +54,7 @@ disableLanguages        = [""]
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
-    languageMenu        = true
+    languageMenu        = false
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
@@ -75,7 +75,7 @@ disableLanguages        = [""]
       src                 = "/img/main/profileheader.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
-      width               = "100px"
+      width               = "200px"
       alt                 = "Hugo Future Imperfect Slim"
 
   [params.sidebar]
