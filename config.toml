@@ -91,7 +91,7 @@ disableLanguages        = [""]
     # Sets RSS icons to appear on the sidebar with the social media buttons
     rssFooter           = true
     # Sets Social Media icons to appear on the sidebar
-    socialFooter        = true
+    socialFooter        = false
 
   # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
   # due to its ease of use. Feel free to check out both and decide which you would
