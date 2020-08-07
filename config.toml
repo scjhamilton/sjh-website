@@ -60,7 +60,7 @@ disableLanguages        = [""]
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "Scott Hamilton"
-    paragraph             = "Digital Communications Analytics. Sociology. Not Websites"
+    paragraph             = "Digital Communications Analytics. Sociology."
     rssIntro              = true
     socialIntro           = true
     # You may not want to display a long intro above content in the
@@ -325,7 +325,7 @@ disableLanguages        = [""]
   #dribbble              = ""
   # Publishing Communities
   #wordpress             = ""
-  medium                = ""
+  medium                = "@scj.hamilton"
   # Professional/Business Oriented Communities
   linkedin              = "scott-hamilton-69b58453"
   #linkedin_company      = "examplebusiness"
@@ -336,7 +336,7 @@ disableLanguages        = [""]
   #googleplus            = ""
   reddit                = "example"
   #quora                 = ""
-  youtube               = "RCsuc0LNoCN55zNny2v0Mg"
+  youtube               = "UCRCsuc0LNoCN55zNny2v0Mg"
   #vimeo                 = ""
   #whatsapp              = "" # WhatsApp Number
     # WeChat and QQ need testing.
