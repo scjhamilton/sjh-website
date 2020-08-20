@@ -54,13 +54,13 @@ disableLanguages        = [""]
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
-    languageMenu        = true
+    languageMenu        = false
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "Scott Hamilton"
-    paragraph             = "Digital Communications Analytics. Sociology. Not Websites"
+    paragraph             = "Digital Communications Analytics. Sociology."
     rssIntro              = true
     socialIntro           = true
     # You may not want to display a long intro above content in the
@@ -75,7 +75,7 @@ disableLanguages        = [""]
       src                 = "/img/main/profileheader.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
-      width               = "100px"
+      width               = "200px"
       alt                 = "Hugo Future Imperfect Slim"
 
   [params.sidebar]
@@ -91,7 +91,7 @@ disableLanguages        = [""]
     # Sets RSS icons to appear on the sidebar with the social media buttons
     rssFooter           = true
     # Sets Social Media icons to appear on the sidebar
-    socialFooter        = true
+    socialFooter        = false
 
   # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
   # due to its ease of use. Feel free to check out both and decide which you would
@@ -314,47 +314,45 @@ disableLanguages        = [""]
   # Coding Communities
   github                = "pacollins/hugo-future-imperfect-slim"
   gitlab                = ""
-  stackoverflow         = "" # User Number
-  bitbucket             = ""
-  jsfiddle              = ""
-  codepen               = ""
+  #stackoverflow         = "" # User Number
+  #bitbucket             = ""
+  #jsfiddle              = ""
+  #codepen               = ""
   # Visual Art Communities
-  deviantart            = ""
-  flickr                = "example"
-  behance               = ""
-  dribbble              = ""
+  #deviantart            = ""
+  #flickr                = "example"
+  #behance               = ""
+  #dribbble              = ""
   # Publishing Communities
-  wordpress             = ""
-  medium                = ""
+  #wordpress             = ""
+  medium                = "@scj.hamilton"
   # Professional/Business Oriented Communities
-  linkedin              = "example"
-  linkedin_company      = "examplebusiness"
-  foursquare            = ""
-  xing                  = ""
-  slideshare            = ""
+  linkedin              = "scott-hamilton-69b58453"
+  #linkedin_company      = "examplebusiness"
+  #foursquare            = ""
+ # xing                  = ""
+  #slideshare            = ""
   # Social Networks
-  facebook              = "example"
-  googleplus            = ""
-  reddit                = "example"
-  quora                 = ""
-  youtube               = ""
-  vimeo                 = ""
-  whatsapp              = "" # WhatsApp Number
+  #googleplus            = ""
+  #reddit                = "example"
+  #quora                 = ""
+  youtube               = "UCRCsuc0LNoCN55zNny2v0Mg"
+  #vimeo                 = ""
+  #whatsapp              = "" # WhatsApp Number
     # WeChat and QQ need testing.
-    wechat              = ""
-    qq                  = "" # User ID Number
-  instagram             = "example"
-  tumblr                = ""
-  twitter               = "example"
-  skype                 = ""
-  snapchat              = ""
-  pinterest             = "example"
-  telegram              = "example"
-  vine                  = ""
+   # wechat              = ""
+  #  qq                  = "" # User ID Number
+  instagram             = "shamilton50"
+  twitter               = "@schamilton"
+  #skype                 = ""
+  #snapchat              = ""
+  #pinterest             = "example"
+  #telegram              = "example"
+  #vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
-  mastodon              = "example.com/@example"
+  #researchgate          = "example"
+  #keybase               = "example"
+  #mastodon              = "example.com/@example"
   # Email
-  email                 = "example"
+  email                 = "scott.hamilton@unt.edu"
