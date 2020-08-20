@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Scott Hamilton</title>
+    <link>/post/</link>
+    <description>Recent content in Post on Scott Hamilton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Scott Post</title>
+      <link>/post/2020-08-19-test-page/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-08-19-test-page/</guid>
+      <description>&lt;p&gt;This is a test of the new blog going out into the world.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
