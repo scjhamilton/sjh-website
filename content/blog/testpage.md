@@ -1,4 +1,3 @@
-
 ---
 aliases:
 - migrate-from-jekyl
